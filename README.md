@@ -11,5 +11,5 @@ Data visualization tools provide an accessible way to see and understand trends,
 - Works continuously without needing to re-launch application
 
 ## Demo
-###### Watch the it below! :movie_camera:
+###### Watch the demo below! :movie_camera:
 [<img src="https://img.youtube.com/vi/ZJxazw6XckY/maxresdefault.jpg" width="300">](https://youtu.be/ZJxazw6XckY)
